@@ -16,10 +16,10 @@
       "url": "https://github.com/draconswan"
     }
   ],
-  "version": "0.10.1",
+  "version": "0.10.2",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.285",
+    "verified": "11.315",
     "maximum": "11"
   },
   "compatibleCoreVersion": "11",
