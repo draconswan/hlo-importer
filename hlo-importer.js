@@ -1,4 +1,4 @@
-let hlodebug = false;
+let hlodebug = true;
 const hloiVer="0.10.1";
 let herolabURL="https://www.pf2player.com";
 
