@@ -16,7 +16,7 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10.285",
-    "maximum": "10"
+    "maximum": "11"
   },
   "compatibleCoreVersion": "10",
   "relationship": {
