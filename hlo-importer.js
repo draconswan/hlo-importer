@@ -207,7 +207,6 @@ export class HeroLabImporter {
       var xmlhttp = new XMLHttpRequest();
       xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-          console.log("ResponseText: " + responseText);
           let responseJSON = JSON.parse(this.responseText);
           if (hlodebug){ 
             console.log("%cHLO Importer | %c"+responseJSON,color1,color4);
