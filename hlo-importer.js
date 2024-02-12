@@ -238,6 +238,7 @@ export class HeroLabImporter {
               default: "yes"
             }).render(true);
           } else {
+            console.log("ResponseJSON: " + responseJSON);
             if (Object.keys(responseJSON.characterData).length>1){
               if (hlodebug) {
                 console.log("%cHLO Importer | %cCalling checkHLOCharacterIsCorrect",color1,color4);
