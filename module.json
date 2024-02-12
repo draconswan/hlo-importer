@@ -10,6 +10,10 @@
       "discord": "SLATE#0001",
       "patreon": "slatesfoundrystuff",
       "ko-fi": "SLATE"
+    },
+    {
+      "name": "Daniel Swan",
+      "url": "https://github.com/draconswan"
     }
   ],
   "version": "0.10.1",
@@ -37,15 +41,15 @@
     ],
   "styles": [],
   "packs": [],
-  "url": "https://github.com/zarmstrong/hlo-importer",
-  "manifest": "https://raw.githubusercontent.com/zarmstrong/hlo-importer/main/module.json",
-  "download": "https://github.com/zarmstrong/hlo-importer/releases/download/hlo-importer-0.10.1/hlo-importer-0.10.1.zip",
+  "url": "https://github.com/draconswan/hlo-importer",
+  "manifest": "https://raw.githubusercontent.com/draconswan/hlo-importer/main/module.json",
+  "download": "https://github.com/draconswan/hlo-importer/releases/download/hlo-importer-0.10.1/hlo-importer-0.10.1.zip",
   "license": "MIT",
-  "readme": "https://github.com/zarmstrong/hlo-importer",
-  "bugs": "https://github.com/zarmstrong/hlo-importer/issues",
+  "readme": "https://github.com/draconswan/hlo-importer",
+  "bugs": "https://github.com/draconswan/hlo-importer/issues",
   "flags": {
     "manifestPlusVersion": "1.2.0",
     "allowBugReporter": true
   },
-  "changelog": "https://github.com/zarmstrong/hlo-importer/blob/main/CHANGELOG.md"  
+  "changelog": "https://github.com/draconswan/hlo-importer/blob/main/CHANGELOG.md"  
 }
